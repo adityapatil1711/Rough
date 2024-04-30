@@ -1,4 +1,4 @@
 # Rough
 This is my first Git Repository.
 <br>
-Author -  Aditya Patil
+Author -  Aditya Patil (Data Scientist)
